@@ -6,7 +6,7 @@ The password for the next level is stored in a file called **readme** located 
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 password: **bandit0**
 ### Solution
-```js
+```shell
 bandit0@bandit:~$ ls 
 readme
 bandit0@bandit:~$ cat readme 

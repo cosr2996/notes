@@ -6,7 +6,7 @@ The password for the next level is stored in **/etc/bandit_pass/bandit14 and ca
 ssh bandit13@bandit.labs.overthewire.org -p 2220
 password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 ### Solution
-```js
+```shell
 bandit13@bandit:~$ ls
 sshkey.private
 bandit13@bandit:~$ cat sshkey.private

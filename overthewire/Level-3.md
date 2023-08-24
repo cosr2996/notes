@@ -6,7 +6,7 @@ The password for the next level is stored in a file called **spaces in this fil
 ssh bandit2@bandit.labs.overthewire.org -p 2220
 password: **rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi*
 ### Solution
-```js
+```shell
 bandit2@bandit:~$ ls -l
 total 4
 -rw-r----- 1 bandit3 bandit2 33 Apr 23 18:04 spaces in this filename

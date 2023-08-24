@@ -6,7 +6,7 @@ The password for the next level is stored in the file **data.txt** next to the
 ssh bandit7@bandit.labs.overthewire.org -p 2220
 password: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
 ### Solution
-```js
+```shell
 bandit7@bandit:~$ ls
 data.txt
 bandit7@bandit:~$ grep "millionth" data.txt 

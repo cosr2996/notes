@@ -10,7 +10,7 @@ The password for the next level is stored in a file somewhere under the **inher
 ssh bandit5@bandit.labs.overthewire.org -p 2220
 password: **lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR**
 ### Solution
-```js
+```shell
 bandit5@bandit:~$ ls
 inhere
 bandit5@bandit:~$ cd inhere

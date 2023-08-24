@@ -6,7 +6,7 @@ The password for the next level is stored in a hidden file in the **inhere** d
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 password: **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
 ### Solution
-```js
+```shell
 bandit3@bandit:~$ ls -a
 .  ..  .bash_logout  .bashrc  inhere  .profile
 bandit3@bandit:~$ cd  inhere

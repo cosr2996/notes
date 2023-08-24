@@ -10,7 +10,7 @@ The password for the next level is stored **somewhere on the server** and has 
 ssh bandit6@bandit.labs.overthewire.org -p 2220
 password: **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**
 ### Solution
-```js
+```shell
 bandit6@bandit:~$ ls
 bandit6@bandit:~$ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
 /var/lib/dpkg/info/bandit7.password

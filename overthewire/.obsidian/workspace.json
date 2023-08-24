@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f19b4ce63ed2d41",
+            "id": "c176aaed9486a45c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level-14.md",
+                "file": "Level-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level-14.md",
+                "file": "Level-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level-14.md",
+                "file": "Level-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level-14.md"
+                "file": "Level-17.md"
               }
             }
           }
@@ -138,28 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "6f19b4ce63ed2d41",
+  "active": "c176aaed9486a45c",
   "lastOpenFiles": [
-    "Level-13.md",
-    "Level-14.md",
+    "Level-16.md",
+    "Level-17.md",
+    "Level-15.md",
     "Bandit.md",
-    "assets/Screenshot 2023-08-21 155005.png",
-    "Level-12.md",
-    "Level-11.md",
-    "assets/ROT13_table_with_example.svg",
-    "ROT13_table_with_example.svg.md",
-    "ROT13_table_with_example.svg",
-    "assets",
-    "Level-10.md",
-    "Level-9.md",
     "level-0.md",
     "Level-1.md",
     "Level-2.md",
@@ -169,6 +161,17 @@
     "Level-6.md",
     "Level-7.md",
     "Level-8.md",
+    "Level-9.md",
+    "Level-10.md",
+    "Level-11.md",
+    "Level-12.md",
+    "Level-13.md",
+    "Level-14.md",
+    "assets/Screenshot 2023-08-21 155005.png",
+    "assets/ROT13_table_with_example.svg",
+    "ROT13_table_with_example.svg.md",
+    "ROT13_table_with_example.svg",
+    "assets",
     "Level-0.md",
     "Level1.md"
   ]

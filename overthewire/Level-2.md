@@ -6,7 +6,7 @@ The password for the next level is stored in a file called **-** located in th
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 password: **NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL*
 ### Solution
-```js
+```shell
 bandit1@bandit:~$ ls
 -
 bandit1@bandit:~$ cat < -
