@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "cc624f790f7e2b0c",
+    "id": "473bdff715b0d450",
     "type": "split",
     "children": [
       {
-        "id": "5b446870db42adbb",
+        "id": "4e0d93de98a5f096",
         "type": "tabs",
         "children": [
           {
-            "id": "c176aaed9486a45c",
+            "id": "7970aa18c4679123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level-7.md",
+                "file": "Terms/Exploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "57b945aa3b2826f8",
+    "id": "6cadd839fb4e12c6",
     "type": "split",
     "children": [
       {
-        "id": "d1451410e0415ab5",
+        "id": "a42798b71e406249",
         "type": "tabs",
         "children": [
           {
-            "id": "0423395d386a83e6",
+            "id": "2cc10885233ed15b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "68333aee841813bf",
+            "id": "b3eba76f5e1855a0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "a6a1373c5b3ee240",
+            "id": "5cf171d64248cd40",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 200
   },
   "right": {
-    "id": "facd9aabb7be8a18",
+    "id": "add3aaa1ff278e3d",
     "type": "split",
     "children": [
       {
-        "id": "3047e97b209728af",
+        "id": "3020e54077948b8c",
         "type": "tabs",
         "children": [
           {
-            "id": "e225fd7bb0d817ba",
+            "id": "01988f02eb3e479b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level-7.md",
+                "file": "Terms/Exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "09fb8c51666be915",
+            "id": "823a832a8389aadc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level-7.md",
+                "file": "Terms/Exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4ea9757ad7e0fcb5",
+            "id": "8ab41b62dc2eb5a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "f9985c9b54f13d91",
+            "id": "8e936d4e1fa43f26",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level-7.md"
+                "file": "Terms/Exploit.md"
               }
             }
           }
@@ -140,39 +140,43 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c176aaed9486a45c",
+  "active": "7970aa18c4679123",
   "lastOpenFiles": [
-    "Level-6.md",
-    "Level-5.md",
-    "Level-4.md",
-    "Level-3.md",
-    "Level-2.md",
-    "Level-1.md",
-    "level-0.md",
-    "Level-17.md",
-    "Level-16.md",
-    "Level-15.md",
-    "Bandit.md",
-    "Level-7.md",
-    "Level-8.md",
-    "Level-9.md",
-    "Level-10.md",
-    "Level-11.md",
-    "Level-12.md",
-    "Level-13.md",
-    "Level-14.md",
-    "assets/Screenshot 2023-08-21 155005.png",
-    "assets/ROT13_table_with_example.svg",
-    "ROT13_table_with_example.svg.md",
-    "ROT13_table_with_example.svg",
+    "overthewire/Level-20.md",
+    "Terms/Exploit.md",
+    "Terms",
+    "overthewire/Level-19.md",
+    "COMANDOS.md",
+    "overthewire/Level-18.md",
+    "overthewire/Level-12.md",
+    "overthewire/Level-11.md",
+    "overthewire/Level-10.md",
+    "overthewire/Level-9.md",
+    "overthewire/Level-8.md",
+    "overthewire/Level-7.md",
+    "overthewire/Level-6.md",
+    "overthewire/Level-5.md",
+    "overthewire/Level-4.md",
+    "overthewire/Level-3.md",
+    "overthewire/Level-2.md",
+    "overthewire/Level-1.md",
+    "overthewire/level-0.md",
+    "overthewire/Level-17.md",
+    "overthewire/Level-16.md",
+    "overthewire/Level-15.md",
+    "overthewire/Level-14.md",
+    "overthewire/Level-13.md",
+    "hackmyvm/Level-19.md",
+    "hackmyvm/Level-3.md",
+    "hackmyvm/Level-2.md",
+    "overthewire/assets/Screenshot 2023-08-21 155005.png",
     "assets",
-    "Level-0.md",
-    "Level1.md"
+    "Templates"
   ]
 }

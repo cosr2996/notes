@@ -1,0 +1,11 @@
+grep
+sed
+uniq
+sort
+nc
+find
+file
+diff
+base64
+tr
+strings
