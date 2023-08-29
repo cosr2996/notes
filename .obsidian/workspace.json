@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMANDOS.md",
-                "mode": "preview",
+                "file": "theory/asfsdfsd.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMANDOS.md",
+                "file": "theory/asfsdfsd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMANDOS.md",
+                "file": "theory/asfsdfsd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMANDOS.md"
+                "file": "theory/asfsdfsd.md"
               }
             }
           }
@@ -138,16 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "2cc10885233ed15b",
+  "active": "4665f357ac89a4c5",
   "lastOpenFiles": [
+    "COMANDOS.md",
+    "theory/asfsdfsd.md",
+    "theory",
     "overthewire/Level-19.md",
     "overthewire/Level-18.md",
     "overthewire/Level-17.md",
@@ -161,7 +164,6 @@
     "README.md",
     "overthewire/Level-20.md",
     "overthewire/Level-1.md",
-    "COMANDOS.md",
     "overthewire/Level-8.md",
     "assets/ROT13_table_with_example.svg",
     "overthewire/Level-14.md",
@@ -174,7 +176,6 @@
     "overthewire/Level-6.md",
     "overthewire/Level-5.md",
     "overthewire/Level-4.md",
-    "overthewire/Level-3.md",
     "assets",
     "assets/Screenshot 2023-08-21 155005.png",
     "Terms",
