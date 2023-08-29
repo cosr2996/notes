@@ -91,7 +91,7 @@ Sus **opciones** son:
 
 despues de revertir el volcado nos damos cuenta que es un archivo comprimido asi que segun la comprecion usamos el comando correspondiente pero entes de eso le cambiamos la extencion para que sea la correcta
 
-
 ![[Screenshot 2023-08-21 155005.png]]
+
 ### FLAG
 **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw** 

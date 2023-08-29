@@ -1,11 +1,13 @@
-grep
-sed
-uniq
-sort
-nc
-find
-file
-diff
-base64
-tr
-strings
+| COMANDO | DESCRIPCION |
+|---------|--------|
+|grep|DSDDSFSD|
+|sed|
+|uniq|
+|sort|
+|nc|
+|find|
+|file|
+|diff|
+|base64|
+|tr|
+|strings|
