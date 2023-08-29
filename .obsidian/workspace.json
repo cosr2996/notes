@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/asfsdfsd.md",
+                "file": "theory/The Harvester.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/asfsdfsd.md",
+                "file": "theory/The Harvester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/asfsdfsd.md",
+                "file": "theory/The Harvester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/asfsdfsd.md"
+                "file": "theory/The Harvester.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "4665f357ac89a4c5",
   "lastOpenFiles": [
+    "theory/5- Archive.md",
+    "theory/The Harvester.md",
+    "theory/3- Censys.md",
+    "assets/censys_paper.pdf",
+    "assets/Pasted image 20230828195215.png",
+    "assets/ROT13_table_with_example.svg",
+    "assets/Screenshot 2023-08-21 155005.png",
+    "assets/Untitled.md",
+    "Pasted image 20230828195006.png",
+    "Pasted image 20230828194928.png",
+    "theory/4- Whois.md",
+    "theory/2- Shodan.md",
+    "theory/1- Google Dorks.md",
     "COMANDOS.md",
-    "theory/asfsdfsd.md",
     "theory",
     "overthewire/Level-19.md",
     "overthewire/Level-18.md",
@@ -165,19 +177,10 @@
     "overthewire/Level-20.md",
     "overthewire/Level-1.md",
     "overthewire/Level-8.md",
-    "assets/ROT13_table_with_example.svg",
     "overthewire/Level-14.md",
     "overthewire/Level-12.md",
     "overthewire/Level-13.md",
-    "overthewire/Level-11.md",
-    "overthewire/Level-10.md",
-    "overthewire/Level-9.md",
-    "overthewire/Level-7.md",
-    "overthewire/Level-6.md",
-    "overthewire/Level-5.md",
-    "overthewire/Level-4.md",
     "assets",
-    "assets/Screenshot 2023-08-21 155005.png",
     "Terms",
     "assets",
     "Templates"
