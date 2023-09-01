@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40d73072446beb0c",
+        "id": "6a8da081ef158fff",
         "type": "tabs",
         "children": [
           {
-            "id": "4665f357ac89a4c5",
+            "id": "121c1cc700089b2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/The Harvester.md",
+                "file": "overthewire/Bandit/Level-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 201.5
   },
   "right": {
     "id": "add3aaa1ff278e3d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/The Harvester.md",
+                "file": "overthewire/Bandit/Level-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/The Harvester.md",
+                "file": "overthewire/Bandit/Level-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/The Harvester.md"
+                "file": "overthewire/Bandit/Level-26.md"
               }
             }
           }
@@ -146,40 +146,46 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "4665f357ac89a4c5",
+  "active": "121c1cc700089b2b",
   "lastOpenFiles": [
-    "theory/5- Archive.md",
-    "theory/The Harvester.md",
-    "theory/3- Censys.md",
-    "assets/censys_paper.pdf",
-    "assets/Pasted image 20230828195215.png",
-    "assets/ROT13_table_with_example.svg",
-    "assets/Screenshot 2023-08-21 155005.png",
-    "assets/Untitled.md",
-    "Pasted image 20230828195006.png",
-    "Pasted image 20230828194928.png",
-    "theory/4- Whois.md",
-    "theory/2- Shodan.md",
-    "theory/1- Google Dorks.md",
-    "COMANDOS.md",
-    "theory",
+    "assets/Screenshot 2023-08-31 171138.png",
+    "overthewire/Bandit/Level-26.md",
+    "overthewire/Level-26.md",
+    "overthewire/Level-27.md",
+    "overthewire/Level-25.md",
     "overthewire/Level-19.md",
     "overthewire/Level-18.md",
     "overthewire/Level-17.md",
-    "hackmyvm/Level-17.md",
-    "hackmyvm/Level-13.md",
-    "hackmyvm/Level-12.md",
-    "hackmyvm/Level-11.md",
-    "hackmyvm/Level-10.md",
-    "hackmyvm/Level-18.md",
-    "hackmyvm/Level-16.md",
-    "README.md",
-    "overthewire/Level-20.md",
-    "overthewire/Level-1.md",
-    "overthewire/Level-8.md",
+    "overthewire/Level-16.md",
+    "overthewire/Level-15.md",
     "overthewire/Level-14.md",
-    "overthewire/Level-12.md",
     "overthewire/Level-13.md",
+    "overthewire/Level-12.md",
+    "overthewire/Level-11.md",
+    "assets/Screenshot 2023-08-31 170433 1.png",
+    "assets/Screenshot 2023-08-31 170433.png",
+    "assets/Screenshot 2023-08-31 170409.png",
+    "assets/Screenshot 2023-08-31 165828 1.png",
+    "assets/Screenshot 2023-08-31 165828.png",
+    "assets/Screenshot 2023-08-31 165815.png",
+    "overthewire/Level-24.md",
+    "assets/mio.sh",
+    "overthewire/Level-23.md",
+    "overthewire/Level-22.md",
+    "overthewire/Level-30.md",
+    "overthewire/Level-29.md",
+    "overthewire/Level-21.md",
+    "overthewire/Level-28.md",
+    "overthewire/Level-20.md",
+    "Templates/Bandit.md",
+    "assets/Linux-cron-crontab-añadir-tareas-periodicas.webp",
+    "assets/Pasted image 20230828195215.png",
+    "assets/ROT13_table_with_example.svg",
+    "Terms/Exploit.md",
+    "theory/The Harvester.md",
+    "theory/5- Archive.md",
+    "assets/censys_paper.pdf",
+    "theory",
     "assets",
     "Terms",
     "assets",
