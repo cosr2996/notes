@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overthewire/Bandit/Level-26.md",
+                "file": "overthewire/Natas/Level-0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overthewire/Bandit/Level-26.md",
+                "file": "overthewire/Natas/Level-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overthewire/Bandit/Level-26.md",
+                "file": "overthewire/Natas/Level-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overthewire/Bandit/Level-26.md"
+                "file": "overthewire/Natas/Level-0.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "121c1cc700089b2b",
   "lastOpenFiles": [
-    "assets/Screenshot 2023-08-31 171138.png",
     "overthewire/Bandit/Level-26.md",
+    "overthewire/Natas/Level-0.md",
+    "overthewire/Natas",
+    "assets/Screenshot 2023-08-31 171138.png",
     "overthewire/Level-26.md",
     "overthewire/Level-27.md",
     "overthewire/Level-25.md",
