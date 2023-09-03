@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8da081ef158fff",
+        "id": "1d7b61732ff02b89",
         "type": "tabs",
         "children": [
           {
-            "id": "121c1cc700089b2b",
+            "id": "ff0e69bfd06ec2d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "overthewire/Natas/Level-0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sett",
+                "query": "john",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overthewire/Natas/Level-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overthewire/Natas/Level-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "overthewire/Natas/Level-0.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,46 +138,47 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "121c1cc700089b2b",
+  "active": "ff0e69bfd06ec2d4",
   "lastOpenFiles": [
-    "overthewire/Bandit/Level-26.md",
-    "overthewire/Natas/Level-0.md",
+    "hackmyvm/Level-28.md",
+    "hackmyvm/Level-27.md",
+    "hackmyvm/Level-26.md",
+    "hackmyvm/Level-25.md",
+    "hackmyvm/Level-18.md",
+    "hackmyvm/Level-24.md",
+    "hackmyvm/Level-23.md",
+    "overthewire/Bandit/Level-9.md",
+    "COMANDOS.md",
+    "overthewire/Bandit/Level-18.md",
+    "hackmyvm/Level-22.md",
+    "hackmyvm/Level-21.md",
+    "hackmyvm/Level-20.md",
+    "overthewire/Bandit/Level-25.md",
+    "overthewire/Bandit/Level-24.md",
+    "overthewire/Bandit/Level-21.md",
+    "overthewire/Bandit/Level-17.md",
+    "hackmyvm/Level-13.md",
+    "hackmyvm/Level-11.md",
+    "hackmyvm/Level-1.md",
+    "overthewire/Bandit/level-0.md",
+    "theory/4- Whois.md",
+    "theory/3- Censys.md",
+    "theory/2- Shodan.md",
+    "overthewire/Bandit/Level-13.md",
+    "overthewire/Bandit/Level-14.md",
+    "assets/decode.jpeg",
+    "assets/decode",
+    "assets/Screenshot 2023-09-02 164731.png",
+    "assets/Screenshot 2023-09-02 164714.png",
+    "assets/Screenshot 2023-09-02 164657.png",
+    "assets/Screenshot 2023-09-02 154203.png",
     "overthewire/Natas",
     "assets/Screenshot 2023-08-31 171138.png",
-    "overthewire/Level-26.md",
-    "overthewire/Level-27.md",
-    "overthewire/Level-25.md",
-    "overthewire/Level-19.md",
-    "overthewire/Level-18.md",
-    "overthewire/Level-17.md",
-    "overthewire/Level-16.md",
-    "overthewire/Level-15.md",
-    "overthewire/Level-14.md",
-    "overthewire/Level-13.md",
-    "overthewire/Level-12.md",
-    "overthewire/Level-11.md",
     "assets/Screenshot 2023-08-31 170433 1.png",
     "assets/Screenshot 2023-08-31 170433.png",
     "assets/Screenshot 2023-08-31 170409.png",
     "assets/Screenshot 2023-08-31 165828 1.png",
-    "assets/Screenshot 2023-08-31 165828.png",
-    "assets/Screenshot 2023-08-31 165815.png",
-    "overthewire/Level-24.md",
     "assets/mio.sh",
-    "overthewire/Level-23.md",
-    "overthewire/Level-22.md",
-    "overthewire/Level-30.md",
-    "overthewire/Level-29.md",
-    "overthewire/Level-21.md",
-    "overthewire/Level-28.md",
-    "overthewire/Level-20.md",
-    "Templates/Bandit.md",
-    "assets/Linux-cron-crontab-añadir-tareas-periodicas.webp",
-    "assets/Pasted image 20230828195215.png",
-    "assets/ROT13_table_with_example.svg",
-    "Terms/Exploit.md",
-    "theory/The Harvester.md",
-    "theory/5- Archive.md",
     "assets/censys_paper.pdf",
     "theory",
     "assets",
