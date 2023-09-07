@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d7b61732ff02b89",
+        "id": "aec17683794aac5b",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0e69bfd06ec2d4",
+            "id": "f97fa80d084148a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "john",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,34 +146,37 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "ff0e69bfd06ec2d4",
+  "active": "f97fa80d084148a7",
   "lastOpenFiles": [
+    "COMANDOS.md",
+    "tools/Gobuster.md",
+    "tools/Responder.md",
+    "tools/The Harvester.md",
+    "theory/ftp anonymous.md",
+    "theory/Untitled.md",
+    "tools",
+    "theory/nmap.md",
+    "theory/Ports.md",
+    "theory/Nmap.md",
+    "theory/Ftp anonymous.md",
+    "theory/Vpn.md",
+    "theory/Redis.md",
+    "theory/SMB.md",
+    "theory/TTL.md",
+    "assets/2.webp",
+    "assets/1.png",
+    "overthewire/Bandit/Level-17.md",
+    "overthewire/Bandit/Untitled.md",
     "hackmyvm/Level-28.md",
     "hackmyvm/Level-27.md",
     "hackmyvm/Level-26.md",
     "hackmyvm/Level-25.md",
-    "hackmyvm/Level-18.md",
     "hackmyvm/Level-24.md",
     "hackmyvm/Level-23.md",
-    "overthewire/Bandit/Level-9.md",
-    "COMANDOS.md",
-    "overthewire/Bandit/Level-18.md",
     "hackmyvm/Level-22.md",
     "hackmyvm/Level-21.md",
     "hackmyvm/Level-20.md",
-    "overthewire/Bandit/Level-25.md",
-    "overthewire/Bandit/Level-24.md",
-    "overthewire/Bandit/Level-21.md",
-    "overthewire/Bandit/Level-17.md",
-    "hackmyvm/Level-13.md",
-    "hackmyvm/Level-11.md",
-    "hackmyvm/Level-1.md",
-    "overthewire/Bandit/level-0.md",
-    "theory/4- Whois.md",
-    "theory/3- Censys.md",
-    "theory/2- Shodan.md",
-    "overthewire/Bandit/Level-13.md",
-    "overthewire/Bandit/Level-14.md",
+    "hackmyvm/Level-19.md",
     "assets/decode.jpeg",
     "assets/decode",
     "assets/Screenshot 2023-09-02 164731.png",
@@ -176,8 +187,6 @@
     "assets/Screenshot 2023-08-31 171138.png",
     "assets/Screenshot 2023-08-31 170433 1.png",
     "assets/Screenshot 2023-08-31 170433.png",
-    "assets/Screenshot 2023-08-31 170409.png",
-    "assets/Screenshot 2023-08-31 165828 1.png",
     "assets/mio.sh",
     "assets/censys_paper.pdf",
     "theory",

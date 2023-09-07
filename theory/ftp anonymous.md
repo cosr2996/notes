@@ -1,0 +1,5 @@
+El usuario por defecto de un servidor FTP puede variar dependiendo de la configuración del servidor. Sin embargo, generalmente se utiliza el usuario "anonymous" como usuario por defecto en los servidores FTP.
+
+Cuando se utiliza el usuario "[anonymous](https://www.google.com/search?q=anonymous)", se permite el acceso anónimo al servidor FTP sin requerir una contraseña. Esto significa que cualquier persona puede acceder al servidor FTP utilizando el nombre de usuario "[anonymous](https://www.google.com/search?q=anonymous)" y proporcionando una dirección de correo electrónico como contraseña (aunque es común que no se solicite una contraseña).
+
+Es importante tener en cuenta que el acceso anónimo al servidor FTP puede estar restringido en algunos servidores por motivos de seguridad. Además, la funcionalidad y configuración del servidor FTP puede variar, por lo que es posible que el usuario por defecto sea diferente en algunos casos.

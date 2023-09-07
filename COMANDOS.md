@@ -11,3 +11,5 @@
 |base64|
 |tr|
 |strings|
+|ping|
+
