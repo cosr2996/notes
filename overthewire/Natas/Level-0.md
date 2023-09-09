@@ -1,20 +1,18 @@
 # Level-0
 
-### Level Goat
+### Credentials
 
+```
 Username: natas0
 Password: natas0
 URL:      http://natas0.natas.labs.overthewire.org
-
-### Credentials
-ssh bandit23@bandit.labs.overthewire.org -p 2220
-password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
-### Solution
-```shell
-┌──(root㉿docker-desktop)-[/]
-└─#
 ```
-### Summary
+### Solution
 
+![[Screenshot 2023-09-09 125940.png]]
+
+![[Screenshot 2023-09-09 130055.png]]
+### Summary
+encontramos el password en un comentario dentro del html usando el inspector de codigo
 ### FLAG
-**flag** 
+**g9D9cREhslqBKtcA2uocGHPfMZVzeFK6** 

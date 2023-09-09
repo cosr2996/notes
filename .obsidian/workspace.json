@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aec17683794aac5b",
+        "id": "39b2b29aa27325d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f97fa80d084148a7",
+            "id": "f71dd329f64ae8b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "tools/Recopilacion pasiva de infromacion/Recon-ng.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 295.5
   },
   "right": {
     "id": "add3aaa1ff278e3d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "tools/Recopilacion pasiva de infromacion/Recon-ng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "tools/Recopilacion pasiva de infromacion/Recon-ng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "tools/Recopilacion pasiva de infromacion/Recon-ng.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f97fa80d084148a7",
+  "active": "f71dd329f64ae8b9",
   "lastOpenFiles": [
-    "COMANDOS.md",
+    "tools/Recopilacion pasiva de infromacion/The Harvester.md",
+    "tools/Recopilacion pasiva de infromacion/Recon-ng.md",
+    "tools/Recopilacion pasiva de infromacion",
+    "tools/Recopilacion pasiva de infromacion/Maltego.md",
+    "overthewire/Natas/Level-4.md",
+    "overthewire/Natas/Level-3.md",
+    "assets/Screenshot 2023-09-09 135343.png",
+    "assets/Screenshot 2023-09-09 135338.png",
+    "assets/Screenshot 2023-09-09 135317.png",
+    "assets/Screenshot 2023-09-09 135223.png",
+    "assets/Screenshot 2023-09-09 134542.png",
+    "overthewire/Natas/Level-2.md",
+    "overthewire/Natas/Level-1.md",
+    "assets/Screenshot 2023-09-09 133908 1.png",
+    "assets/Screenshot 2023-09-09 133908.png",
+    "assets/Screenshot 2023-09-09 133852.png",
+    "assets/Screenshot 2023-09-09 133836.png",
+    "assets/Screenshot 2023-09-09 133832.png",
+    "Templates/Natas.md",
+    "overthewire/Natas/Level-0.md",
+    "overthewire/Bandit/Level-34.md",
+    "overthewire/Bandit/Level-33.md",
+    "overthewire/Bandit/Level-32.md",
+    "overthewire/Bandit/Level-31.md",
+    "overthewire/Bandit/Level-30.md",
     "tools/Gobuster.md",
-    "tools/Responder.md",
-    "tools/The Harvester.md",
-    "theory/ftp anonymous.md",
+    "theory/vpn.md",
     "theory/Untitled.md",
-    "tools",
-    "theory/nmap.md",
-    "theory/Ports.md",
-    "theory/Nmap.md",
-    "theory/Ftp anonymous.md",
-    "theory/Vpn.md",
-    "theory/Redis.md",
-    "theory/SMB.md",
     "theory/TTL.md",
-    "assets/2.webp",
-    "assets/1.png",
-    "overthewire/Bandit/Level-17.md",
-    "overthewire/Bandit/Untitled.md",
-    "hackmyvm/Level-28.md",
-    "hackmyvm/Level-27.md",
-    "hackmyvm/Level-26.md",
-    "hackmyvm/Level-25.md",
-    "hackmyvm/Level-24.md",
-    "hackmyvm/Level-23.md",
-    "hackmyvm/Level-22.md",
-    "hackmyvm/Level-21.md",
-    "hackmyvm/Level-20.md",
-    "hackmyvm/Level-19.md",
-    "assets/decode.jpeg",
+    "theory/SMB.md",
+    "theory/setuid.md",
+    "theory/Redis.md",
+    "tools/nmap.md",
+    "tools/Responder.md",
+    "overthewire/Bandit/Level-29.md",
+    "overthewire/Bandit/Level-21.md",
+    "overthewire/Bandit/Level-22.md",
+    "tools",
     "assets/decode",
-    "assets/Screenshot 2023-09-02 164731.png",
-    "assets/Screenshot 2023-09-02 164714.png",
-    "assets/Screenshot 2023-09-02 164657.png",
-    "assets/Screenshot 2023-09-02 154203.png",
     "overthewire/Natas",
-    "assets/Screenshot 2023-08-31 171138.png",
-    "assets/Screenshot 2023-08-31 170433 1.png",
-    "assets/Screenshot 2023-08-31 170433.png",
     "assets/mio.sh",
     "assets/censys_paper.pdf",
     "theory",
     "assets",
     "Terms",
-    "assets",
-    "Templates"
+    "assets"
   ]
 }
