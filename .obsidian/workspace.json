@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e25fb731b94693de",
+            "id": "8ce1f4bee7c44662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overthewire/Natas/Level-11.md",
+                "file": "COMANDOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overthewire/Natas/Level-11.md",
+                "file": "COMANDOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overthewire/Natas/Level-11.md",
+                "file": "COMANDOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overthewire/Natas/Level-11.md"
+                "file": "COMANDOS.md"
+              }
+            }
+          },
+          {
+            "id": "6d543b811dd2c1e1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,10 +156,21 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e25fb731b94693de",
+  "active": "8ce1f4bee7c44662",
   "lastOpenFiles": [
-    "overthewire/Natas/Level-10.md",
+    "README.md",
+    "COMANDOS.md",
+    "tools/Recopilacion Activa de Informacion/Nmap.md",
+    "tools/Responder.md",
+    "tools/Recopilacion Activa de Informacion/DNSrecon.md",
+    "tools/Recopilacion Activa de Informacion/nmap.md",
+    "tools/Recopilacion semi Pasiva de informacion/TCPdump.md",
     "overthewire/Natas/Level-11.md",
+    "theory/DNS.md",
+    "assets/Screenshot 2023-09-18 001515.png",
+    "assets/Screenshot 2023-09-18 001509.png",
+    "tools/Recopilacion semi Pasiva de informacion/DNSdumpster.md",
+    "overthewire/Natas/Level-10.md",
     "overthewire/Natas/Level-9.md",
     "assets/2023-09-17-21^%05^%10-screenshot.png",
     "assets/2023-09-17-21^%04^%25-screenshot.png",
@@ -161,8 +182,6 @@
     "overthewire/Natas/Level-8.md",
     "assets/2023-09-17-20^%01^%30-screenshot 1.png",
     "assets/2023-09-17-20^%01^%30-screenshot.png",
-    "assets/2023-09-17-20^%01^%11-screenshot.png",
-    "assets/2023-09-17-20^%00^%37-screenshot.png",
     "overthewire/Natas/Level-6.md",
     "overthewire/Natas/Level-4.md",
     "overthewire/Natas/Level-3.md",
@@ -176,17 +195,8 @@
     "tools/Recopilacion semi Pasiva de informacion/WireShark.md",
     "theory/Sniffers.md",
     "Templates/Natas.md",
-    "README.md",
-    "COMANDOS.md",
-    "tools/Recopilacion pasiva de infromacion/Recon-ng.md",
     "tools/Recopilacion semi Pasiva de informacion",
-    "tools/Recopilacion pasiva de infromacion/The Harvester.md",
     "tools/Recopilacion pasiva de infromacion",
-    "tools/Recopilacion pasiva de infromacion/Maltego.md",
-    "overthewire/Bandit/Level-34.md",
-    "overthewire/Bandit/Level-33.md",
-    "overthewire/Bandit/Level-32.md",
-    "overthewire/Bandit/Level-31.md",
     "tools",
     "assets/decode",
     "overthewire/Natas",
