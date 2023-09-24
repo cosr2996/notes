@@ -12,4 +12,5 @@
 |tr|
 |strings| extrae las cadenas de caracteres imprimibles de un archivo binario y las muestra en la pantalla. Esto puede ser útil para buscar información legible por humanos en archivos binarios, como archivos ejecutables o bibliotecas compartidas
 |ping|
+|binwalk| puede identificar archivos y código incrustados dentro de imágenes de firmware3.|
 

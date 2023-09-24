@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6c2ea2911f6996",
+        "id": "2f83eca654714c21",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce1f4bee7c44662",
+            "id": "b86e4fa2be33f596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMANDOS.md",
+                "file": "parcial 1/parte3/plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMANDOS.md",
+                "file": "parcial 1/parte3/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMANDOS.md",
+                "file": "parcial 1/parte3/plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMANDOS.md"
+                "file": "parcial 1/parte3/plumbing.md"
               }
             }
           },
@@ -156,53 +156,53 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8ce1f4bee7c44662",
+  "active": "b86e4fa2be33f596",
   "lastOpenFiles": [
-    "README.md",
-    "COMANDOS.md",
-    "tools/Recopilacion Activa de Informacion/Nmap.md",
-    "tools/Responder.md",
-    "tools/Recopilacion Activa de Informacion/DNSrecon.md",
-    "tools/Recopilacion Activa de Informacion/nmap.md",
-    "tools/Recopilacion semi Pasiva de informacion/TCPdump.md",
-    "overthewire/Natas/Level-11.md",
-    "theory/DNS.md",
+    "parcial 1/parte3/Based.md",
+    "parcial 1/parte3/plumbing.md",
+    "parcial 1/parte3/runme.py.md",
+    "parcial 1/parte3/PW Crack 3.md",
+    "assets/crack.py.txt",
+    "parcial 1/parte3/PW Crack 2.md",
+    "parcial 1/parte3/PW Crack 1.md",
+    "parcial 1/parte3/Glitch Cat.md",
+    "parcial 1/parte3/fixme2.py.md",
+    "parcial 1/parte2/what's a net cat.md",
+    "parcial 1/parte3",
+    "parcial 1/Untitled.md",
+    "parcial 1/parte2/strings it.md",
+    "parcial 1/parte2/fixme1.py.md",
+    "parcial 1/parte2/First Grep.md",
+    "parcial 1/parte2/convertme.py.md",
+    "parcial 1/parte2/Codebook.md",
+    "parcial 1/parte2/Bases.md",
+    "assets/Pasted image 20230924123233.png",
+    "parcial 1/parte2/2Warm.md",
+    "assets/Pasted image 20230924121940.png",
+    "parcial 1/parte1/Lets Warm Up.md",
+    "parcial 1/parte2",
+    "parcial 1/parte1/Magikarp Ground Mission.md",
+    "parcial 1/parte1/Nice netcat....md",
+    "parcial 1/parte1/Obedient Cat.md",
+    "parcial 1/parte1/Static ain't always noise.md",
+    "parcial 1/parte1/Tab, Tab, Attack.md",
+    "parcial 1/parte1/Wave a flag.md",
+    "parcial 1/parte1",
+    "overthewire/Bandit/Level-2.md",
+    "overthewire/Bandit/Level-1.md",
+    "assets/Pasted image 20230924115023.png",
+    "assets/Pasted image 20230924111829.png",
+    "assets/Pasted image 20230924111410.png",
+    "parcial 1",
+    "overthewire/Leviatán",
     "assets/Screenshot 2023-09-18 001515.png",
     "assets/Screenshot 2023-09-18 001509.png",
-    "tools/Recopilacion semi Pasiva de informacion/DNSdumpster.md",
-    "overthewire/Natas/Level-10.md",
-    "overthewire/Natas/Level-9.md",
     "assets/2023-09-17-21^%05^%10-screenshot.png",
     "assets/2023-09-17-21^%04^%25-screenshot.png",
     "assets/2023-09-17-21^%04^%15-screenshot.png",
-    "assets/2023-09-17-20^%58^%05-screenshot.png",
-    "assets/2023-09-17-20^%54^%04-screenshot.png",
-    "assets/2023-09-17-20^%09^%42-screenshot.png",
-    "overthewire/Natas/Level-7.md",
-    "overthewire/Natas/Level-8.md",
-    "assets/2023-09-17-20^%01^%30-screenshot 1.png",
-    "assets/2023-09-17-20^%01^%30-screenshot.png",
-    "overthewire/Natas/Level-6.md",
-    "overthewire/Natas/Level-4.md",
-    "overthewire/Natas/Level-3.md",
-    "overthewire/Natas/Level-2.md",
-    "overthewire/Natas/Level-1.md",
-    "overthewire/Natas/Level-0.md",
-    "overthewire/Natas/Level-5.md",
-    "tools/Recopilacion semi Pasiva de informacion/Foca.md",
     "tools/Recopilacion Activa de Informacion",
-    "tools/Untitled.md",
-    "tools/Recopilacion semi Pasiva de informacion/WireShark.md",
-    "theory/Sniffers.md",
-    "Templates/Natas.md",
     "tools/Recopilacion semi Pasiva de informacion",
     "tools/Recopilacion pasiva de infromacion",
-    "tools",
-    "assets/decode",
-    "overthewire/Natas",
-    "assets/mio.sh",
-    "assets/censys_paper.pdf",
-    "theory",
-    "assets"
+    "tools"
   ]
 }
