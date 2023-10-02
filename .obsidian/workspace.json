@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f83eca654714c21",
+        "id": "16cd6146955e946d",
         "type": "tabs",
         "children": [
           {
-            "id": "b86e4fa2be33f596",
+            "id": "d4456827c09fe6bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parcial 1/parte3/plumbing.md",
+                "file": "overthewire/Natas/Level-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parcial 1/parte3/plumbing.md",
+                "file": "overthewire/Natas/Level-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parcial 1/parte3/plumbing.md",
+                "file": "overthewire/Natas/Level-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parcial 1/parte3/plumbing.md"
+                "file": "overthewire/Natas/Level-11.md"
               }
             }
           },
@@ -156,53 +156,53 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b86e4fa2be33f596",
+  "active": "d4456827c09fe6bd",
   "lastOpenFiles": [
-    "parcial 1/parte3/Based.md",
-    "parcial 1/parte3/plumbing.md",
-    "parcial 1/parte3/runme.py.md",
-    "parcial 1/parte3/PW Crack 3.md",
-    "assets/crack.py.txt",
-    "parcial 1/parte3/PW Crack 2.md",
-    "parcial 1/parte3/PW Crack 1.md",
-    "parcial 1/parte3/Glitch Cat.md",
-    "parcial 1/parte3/fixme2.py.md",
-    "parcial 1/parte2/what's a net cat.md",
-    "parcial 1/parte3",
-    "parcial 1/Untitled.md",
-    "parcial 1/parte2/strings it.md",
-    "parcial 1/parte2/fixme1.py.md",
-    "parcial 1/parte2/First Grep.md",
-    "parcial 1/parte2/convertme.py.md",
-    "parcial 1/parte2/Codebook.md",
-    "parcial 1/parte2/Bases.md",
-    "assets/Pasted image 20230924123233.png",
-    "parcial 1/parte2/2Warm.md",
-    "assets/Pasted image 20230924121940.png",
+    "assets/Captura de pantalla 2023-10-01 235939.png",
+    "assets/Captura de pantalla 2023-10-01 235741.png",
+    "assets/Captura de pantalla 2023-10-01 235459.png",
+    "picoCTF/Client-side-again.md",
+    "picoCTF/dont-use-client-side.md",
+    "assets/Captura de pantalla 2023-10-01 005156.png",
+    "picoCTF/picobrowser.md",
+    "picoCTF/logon.md",
+    "picoCTF/Insp3ct0r.md",
+    "picoCTF/where are the robots.md",
+    "assets/Captura de pantalla 2023-10-01 004333.png",
+    "assets/Captura de pantalla 2023-10-01 004136 1.png",
+    "assets/Captura de pantalla 2023-10-01 004127.png",
+    "assets/Captura de pantalla 2023-10-01 004136.png",
+    "assets/Captura de pantalla 2023-10-01 001746.png",
+    "assets/Captura de pantalla 2023-10-01 001708.png",
+    "assets/Captura de pantalla 2023-10-01 001013.png",
+    "Templates/picoCTF.md",
     "parcial 1/parte1/Lets Warm Up.md",
-    "parcial 1/parte2",
-    "parcial 1/parte1/Magikarp Ground Mission.md",
-    "parcial 1/parte1/Nice netcat....md",
-    "parcial 1/parte1/Obedient Cat.md",
-    "parcial 1/parte1/Static ain't always noise.md",
-    "parcial 1/parte1/Tab, Tab, Attack.md",
-    "parcial 1/parte1/Wave a flag.md",
-    "parcial 1/parte1",
+    "overthewire/Natas/Level-11.md",
+    "overthewire/Natas/Level-10.md",
+    "COMANDOS.md",
+    "overthewire/Bandit/Level-14.md",
+    "overthewire/Bandit/Level-9.md",
     "overthewire/Bandit/Level-2.md",
-    "overthewire/Bandit/Level-1.md",
-    "assets/Pasted image 20230924115023.png",
-    "assets/Pasted image 20230924111829.png",
-    "assets/Pasted image 20230924111410.png",
+    "hackmyvm/Untitled.md",
+    "hackmyvm/Level-26.md",
+    "hackmyvm/Level-25.md",
+    "hackmyvm/Level-24.md",
+    "hackmyvm/Level-29.md",
+    "picoCTF",
+    "hackmyvm/Level-28.md",
+    "overthewire/Bandit/Level-32.md",
+    "overthewire/Bandit/Level-34.md",
+    "overthewire/Bandit/Level-33.md",
+    "overthewire/Bandit/Level-22.md",
+    "instalacion-kali.pdf",
+    "overthewire/Krypton/Nivel 2 → Nivel 3.md",
+    "overthewire/Krypton",
+    "assets/crack.py.txt",
+    "parcial 1/parte3",
+    "parcial 1/parte2",
+    "parcial 1/parte1",
     "parcial 1",
     "overthewire/Leviatán",
-    "assets/Screenshot 2023-09-18 001515.png",
-    "assets/Screenshot 2023-09-18 001509.png",
-    "assets/2023-09-17-21^%05^%10-screenshot.png",
-    "assets/2023-09-17-21^%04^%25-screenshot.png",
-    "assets/2023-09-17-21^%04^%15-screenshot.png",
-    "tools/Recopilacion Activa de Informacion",
-    "tools/Recopilacion semi Pasiva de informacion",
-    "tools/Recopilacion pasiva de infromacion",
-    "tools"
+    "tools/Recopilacion Activa de Informacion"
   ]
 }
