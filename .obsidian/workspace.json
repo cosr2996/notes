@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16cd6146955e946d",
+        "id": "5a9422c50cd0d0f3",
         "type": "tabs",
         "children": [
           {
-            "id": "d4456827c09fe6bd",
+            "id": "d28922ba34483d45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overthewire/Natas/Level-11.md",
+                "file": "picoCTF/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "binwa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overthewire/Natas/Level-11.md",
+                "file": "picoCTF/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overthewire/Natas/Level-11.md",
+                "file": "picoCTF/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overthewire/Natas/Level-11.md"
+                "file": "picoCTF/JaWT Scratchpad.md"
               }
             }
           },
@@ -148,61 +148,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d4456827c09fe6bd",
+  "active": "d28922ba34483d45",
   "lastOpenFiles": [
-    "assets/Captura de pantalla 2023-10-01 235939.png",
-    "assets/Captura de pantalla 2023-10-01 235741.png",
-    "assets/Captura de pantalla 2023-10-01 235459.png",
-    "picoCTF/Client-side-again.md",
-    "picoCTF/dont-use-client-side.md",
-    "assets/Captura de pantalla 2023-10-01 005156.png",
-    "picoCTF/picobrowser.md",
-    "picoCTF/logon.md",
-    "picoCTF/Insp3ct0r.md",
+    "assets/Pasted image 20231008163852.png",
+    "assets/Pasted image 20231008163830.png",
+    "assets/Pasted image 20231008163725.png",
+    "assets/Pasted image 20231008163602.png",
+    "picoCTF/Irish-Name-Repo 2.md",
+    "picoCTF/Irish-Name-Repo 3.md",
+    "picoCTF/Irish-Name-Repo 1.md",
+    "picoCTF/JaWT Scratchpad.md",
+    "assets/Pasted image 20231008162950.png",
+    "assets/Pasted image 20231008162857.png",
+    "assets/Pasted image 20231008152949.png",
+    "assets/Pasted image 20231008152934.png",
+    "assets/Pasted image 20231008152523.png",
+    "assets/Pasted image 20231008152327.png",
+    "MetaRed 2022/My first app.md",
+    "assets/Pasted image 20231005201630.png",
+    "MetaRed 2022/How to catch snakes.md",
+    "MetaRed 2022/Intercepting Communication.md",
+    "MetaRed 2022/Find the message.md",
+    "MetaRed 2022/Discord.md",
+    "assets/Untitled.md",
+    "MetaRed 2022",
+    "Nueva carpeta",
     "picoCTF/where are the robots.md",
-    "assets/Captura de pantalla 2023-10-01 004333.png",
-    "assets/Captura de pantalla 2023-10-01 004136 1.png",
-    "assets/Captura de pantalla 2023-10-01 004127.png",
-    "assets/Captura de pantalla 2023-10-01 004136.png",
-    "assets/Captura de pantalla 2023-10-01 001746.png",
-    "assets/Captura de pantalla 2023-10-01 001708.png",
-    "assets/Captura de pantalla 2023-10-01 001013.png",
-    "Templates/picoCTF.md",
-    "parcial 1/parte1/Lets Warm Up.md",
-    "overthewire/Natas/Level-11.md",
-    "overthewire/Natas/Level-10.md",
     "COMANDOS.md",
-    "overthewire/Bandit/Level-14.md",
-    "overthewire/Bandit/Level-9.md",
-    "overthewire/Bandit/Level-2.md",
-    "hackmyvm/Untitled.md",
-    "hackmyvm/Level-26.md",
-    "hackmyvm/Level-25.md",
-    "hackmyvm/Level-24.md",
+    "overthewire/Bandit/Level-18.md",
+    "overthewire/Bandit/Level-29.md",
+    "parcial 1/parte3/Based.md",
+    "hackmyvm/Level-18.md",
     "hackmyvm/Level-29.md",
-    "picoCTF",
-    "hackmyvm/Level-28.md",
-    "overthewire/Bandit/Level-32.md",
-    "overthewire/Bandit/Level-34.md",
-    "overthewire/Bandit/Level-33.md",
-    "overthewire/Bandit/Level-22.md",
+    "concurso/Sin título.md",
+    "concurso",
+    "picoCTF/logon.md",
+    "picoCTF/picobrowser.md",
+    "picoCTF/Insp3ct0r.md",
+    "picoCTF/dont-use-client-side.md",
+    "overthewire/Natas/Level-11.md",
     "instalacion-kali.pdf",
-    "overthewire/Krypton/Nivel 2 → Nivel 3.md",
+    "README.md",
+    "Untitled.canvas",
+    "2023-10-02.md",
+    "picoCTF",
     "overthewire/Krypton",
     "assets/crack.py.txt",
     "parcial 1/parte3",
     "parcial 1/parte2",
-    "parcial 1/parte1",
-    "parcial 1",
-    "overthewire/Leviatán",
-    "tools/Recopilacion Activa de Informacion"
+    "parcial 1/parte1"
   ]
 }
