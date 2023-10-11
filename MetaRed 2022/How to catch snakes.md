@@ -1,4 +1,4 @@
-#Crypto
+#Crypto #morse #xxd
 # Descripción:
 We slipped like a snake and accessed confidential information available in a shared folder, to extract it without being discovered we have encrypted it in a simple way
 # Solución:

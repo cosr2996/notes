@@ -1,4 +1,4 @@
-#Misc #base64
+#Misc #base64 #email #encrypt #vigenere
 # Descripción:
 The security area intercepted a communication from an employee who is selling critical information.
 # Solución:

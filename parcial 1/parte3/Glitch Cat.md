@@ -1,3 +1,4 @@
+#nc #unicode #python 
 #### Description
 
 Our flag printing service has started glitching!`$ nc saturn.picoctf.net 52682`

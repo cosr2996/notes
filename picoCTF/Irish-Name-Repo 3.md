@@ -8,7 +8,6 @@ el ejersicio dice que esta encriptado , haciendo pruebas con el campo de debug q
 ![[Pasted image 20231008152934.png]]
 ![[Pasted image 20231008152949.png]]
 
-
 asi que con ayuda de cyberchef encriptamos la inyeccion y la metemos en el input de manera de que  al interior se desencripte y se ejecute la inyeccion 
 ![[Pasted image 20231008152327.png]]
 
