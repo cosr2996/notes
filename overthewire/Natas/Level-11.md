@@ -1,3 +1,4 @@
+#cookie #encrypt #reversing #base64 
 # Level-10 -> Level-11
 
 ### Credentials
@@ -67,10 +68,6 @@ echo base64_encode(xor_encrypt(json_encode($defaultdata)));
 Output:
 MGw7JCQ5OC04PT8jOSpqdmk3LT9pYmouLC0nICQ8anZpbS4qLSguKmk2
 ```
-
-
-
-
 
 ### Summary
 

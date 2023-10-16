@@ -3,7 +3,7 @@
 Who doesn't love cookies? Try to figure out the best one. [http://mercury.picoctf.net:6418/](http://mercury.picoctf.net:6418/)
 
 ### Solution
-vemos que la pagina nos pregunta por algun postre
+vemos que la pagina nos pregunta por algún postre
 ![[Pasted image 20231010190014.png]]
 viendo las cookies si cambiamos el numero cambia el mensaje mostrado
 ![[Pasted image 20231010190102.png]]

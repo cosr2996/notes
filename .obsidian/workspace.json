@@ -11,8 +11,12 @@
             "id": "da1be97f64ff5407",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Irish-Name-Repo 1.md",
+                "file": "picoCTF/where are the robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Irish-Name-Repo 1.md",
+                "file": "picoCTF/where are the robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Irish-Name-Repo 1.md"
+                "file": "picoCTF/where are the robots.md"
               }
             }
           },
@@ -152,44 +156,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2cc10885233ed15b",
+  "active": "da1be97f64ff5407",
   "lastOpenFiles": [
+    "picoCTF/what's a net cat.md",
+    "picoCTF/picobrowser.md",
+    "picoCTF/Lets Warm Up.md",
     "picoCTF/Insp3ct0r.md",
-    "picoCTF/dont-use-client-side.md",
-    "picoCTF/Cookies.md",
+    "picoCTF/First Grep.md",
     "picoCTF/Client-side-again.md",
-    "overthewire/Bandit/level-0.md",
-    "MetaRed 2022/My first app.md",
-    "MetaRed 2022/Intercepting Communication.md",
-    "MetaRed 2022/Find the message.md",
-    "MetaRed 2022/How to catch snakes.md",
-    "MetaRed 2022/Discord.md",
-    "parcial 1/parte3/runme.py.md",
-    "parcial 1/parte3/PW Crack 2.md",
-    "parcial 1/parte3/PW Crack 3.md",
-    "parcial 1/parte3/PW Crack 1.md",
-    "parcial 1/parte3/plumbing.md",
-    "parcial 1/parte3/Glitch Cat.md",
-    "parcial 1/parte3/fixme2.py.md",
-    "parcial 1/parte3/Based.md",
-    "parcial 1/parte2/what's a net cat.md",
-    "parcial 1/parte2/strings it.md",
-    "parcial 1/parte2/fixme1.py.md",
-    "parcial 1/parte2/First Grep.md",
-    "parcial 1/parte2/convertme.py.md",
-    "parcial 1/parte2/Codebook.md",
-    "parcial 1/parte2/Bases.md",
-    "parcial 1/parte2/2Warm.md",
-    "assets/Captura de pantalla 2023-10-01 004127.png",
-    "assets/Pasted image 20231010190102.png",
-    "assets/Pasted image 20231010190014.png",
+    "picoCTF/Irish-Name-Repo 1.md",
+    "picoCTF/fixme1.py.md",
+    "picoCTF/extensions.md",
+    "picoCTF/Glory of the Garden.md",
+    "picoCTF/So Meta.md",
+    "picoCTF/What Lies Within.md",
+    "picoCTF/shark on wire 1.md",
+    "assets/Pasted image 20231015220935.png",
+    "assets/Pasted image 20231015214904 1.png",
+    "assets/Pasted image 20231015214904.png",
+    "assets/Pasted image 20231015214825.png",
+    "assets/Pasted image 20231015214354.png",
+    "assets/Pasted image 20231015152840.png",
+    "assets/Pasted image 20231015152818.png",
+    "assets/Pasted image 20231015152148.png",
+    "picoCTF/Cookies.md",
     "assets/Pasted image 20231010185857.png",
-    "assets/Captura de pantalla de 2023-10-02 10-55-07.png",
-    "assets/Captura de pantalla de 2023-10-02 10-54-35.png",
-    "assets/Captura de pantalla de 2023-10-02 10-54-03.png",
-    "assets/Captura de pantalla de 2023-10-02 10-53-13.png",
-    "assets/Pasted image 20231008163852.png",
-    "assets/Pasted image 20231008163830.png",
+    "overthewire/Natas/Level-11.md",
+    "overthewire/Natas/Level-12.md",
+    "COMANDOS.md",
+    "README.md",
+    "picoCTF/fixme2.py.md",
+    "picoCTF/Based.md",
+    "picoCTF/runme.py.md",
+    "picoCTF/PW Crack 3.md",
+    "picoCTF/PW Crack 2.md",
+    "picoCTF/PW Crack 1.md",
+    "picoCTF/plumbing.md",
+    "picoCTF/Glitch Cat.md",
+    "assets/Captura de pantalla 2023-10-01 004127.png",
     "MetaRed 2022",
     "Nueva carpeta",
     "concurso",
