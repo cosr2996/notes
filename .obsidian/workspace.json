@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c16b4bbe6a1f74a7",
+        "id": "a9226449348fb306",
         "type": "tabs",
         "children": [
           {
-            "id": "da1be97f64ff5407",
+            "id": "97816c1f3cdfc21c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/where are the robots.md",
+                "file": "picoCTF/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/where are the robots.md",
+                "file": "picoCTF/shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/where are the robots.md",
+                "file": "picoCTF/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/where are the robots.md"
+                "file": "picoCTF/shark on wire 2.md"
               }
             }
           },
@@ -156,44 +156,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "da1be97f64ff5407",
+  "active": "97816c1f3cdfc21c",
   "lastOpenFiles": [
+    "assets/Pasted image 20231017220645.png",
+    "assets/Pasted image 20231017214809.png",
+    "assets/Pasted image 20231017214608.png",
+    "assets/Pasted image 20231017214516.png",
+    "picoCTF/WhitePages.md",
+    "picoCTF/shark on wire 2.md",
+    "assets/Pasted image 20231017123831.png",
+    "picoCTF/extensions.md",
+    "picoCTF/m00nwalk.md",
+    "assets/result.jpg",
+    "picoCTF/like1000.md",
+    "picoCTF/MacroHard WeakEdge.md",
+    "picoCTF/c0rrupt.md",
+    "assets/mystery - copia.png",
+    "assets/Pasted image 20231016181744.png",
+    "assets/Pasted image 20231016181434.png",
+    "assets/Pasted image 20231016180729.png",
+    "assets/Pasted image 20231016155928.png",
+    "picoCTF/dont-use-client-side.md",
+    "picoCTF/Cookies.md",
+    "picoCTF/convertme.py.md",
+    "picoCTF/Codebook.md",
+    "picoCTF/Client-side-again.md",
+    "picoCTF/Based.md",
+    "picoCTF/tunn3l v1s10n.md",
+    "picoCTF/where are the robots.md",
+    "MetaRed 2022/My first app.md",
+    "MetaRed 2022/Intercepting Communication.md",
+    "MetaRed 2022/How to catch snakes.md",
     "picoCTF/what's a net cat.md",
     "picoCTF/picobrowser.md",
     "picoCTF/Lets Warm Up.md",
     "picoCTF/Insp3ct0r.md",
     "picoCTF/First Grep.md",
-    "picoCTF/Client-side-again.md",
     "picoCTF/Irish-Name-Repo 1.md",
     "picoCTF/fixme1.py.md",
-    "picoCTF/extensions.md",
-    "picoCTF/Glory of the Garden.md",
-    "picoCTF/So Meta.md",
-    "picoCTF/What Lies Within.md",
-    "picoCTF/shark on wire 1.md",
-    "assets/Pasted image 20231015220935.png",
-    "assets/Pasted image 20231015214904 1.png",
-    "assets/Pasted image 20231015214904.png",
-    "assets/Pasted image 20231015214825.png",
-    "assets/Pasted image 20231015214354.png",
-    "assets/Pasted image 20231015152840.png",
-    "assets/Pasted image 20231015152818.png",
-    "assets/Pasted image 20231015152148.png",
-    "picoCTF/Cookies.md",
-    "assets/Pasted image 20231010185857.png",
-    "overthewire/Natas/Level-11.md",
-    "overthewire/Natas/Level-12.md",
-    "COMANDOS.md",
-    "README.md",
-    "picoCTF/fixme2.py.md",
-    "picoCTF/Based.md",
-    "picoCTF/runme.py.md",
-    "picoCTF/PW Crack 3.md",
-    "picoCTF/PW Crack 2.md",
-    "picoCTF/PW Crack 1.md",
-    "picoCTF/plumbing.md",
-    "picoCTF/Glitch Cat.md",
-    "assets/Captura de pantalla 2023-10-01 004127.png",
     "MetaRed 2022",
     "Nueva carpeta",
     "concurso",
