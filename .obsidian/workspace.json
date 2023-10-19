@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/shark on wire 2.md",
+                "file": "picoCTF/Local Authority.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/shark on wire 2.md",
+                "file": "picoCTF/Local Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/shark on wire 2.md",
+                "file": "picoCTF/Local Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/shark on wire 2.md"
+                "file": "picoCTF/Local Authority.md"
               }
             }
           },
@@ -158,42 +158,44 @@
   },
   "active": "97816c1f3cdfc21c",
   "lastOpenFiles": [
-    "assets/Pasted image 20231017220645.png",
-    "assets/Pasted image 20231017214809.png",
-    "assets/Pasted image 20231017214608.png",
-    "assets/Pasted image 20231017214516.png",
-    "picoCTF/WhitePages.md",
+    "assets/Pasted image 20231018183650.png",
+    "picoCTF/Forbidden Paths.md",
+    "picoCTF/Local Authority.md",
+    "assets/Pasted image 20231018182933.png",
+    "picoCTF/Search source.md",
+    "assets/Pasted image 20231018182048.png",
+    "picoCTF/Inspect HTML.md",
+    "assets/Pasted image 20231018181213.png",
+    "picoCTF/Includes.md",
+    "assets/Pasted image 20231018181046.png",
+    "assets/Pasted image 20231018181018.png",
+    "picoCTF/information.md",
+    "assets/Pasted image 20231018180319.png",
+    "assets/Pasted image 20231018180301.png",
+    "picoCTF/WebNet1.md",
+    "assets/Pasted image 20231018175916.png",
+    "assets/Pasted image 20231018175738.png",
+    "picoCTF/WebNet0.md",
+    "assets/Pasted image 20231018174323.png",
+    "picoCTF/Matryoshka doll.md",
+    "picoCTF/MacroHard WeakEdge.md",
+    "TryHackMe/RootMe.md",
+    "tryhackme/RootMe.md",
+    "tryhackme",
+    "tools/Recopilacion Activa de Informacion/Nmap.md",
+    "TryHackMe",
     "picoCTF/shark on wire 2.md",
-    "assets/Pasted image 20231017123831.png",
+    "picoCTF/WhitePages.md",
     "picoCTF/extensions.md",
     "picoCTF/m00nwalk.md",
-    "assets/result.jpg",
     "picoCTF/like1000.md",
-    "picoCTF/MacroHard WeakEdge.md",
     "picoCTF/c0rrupt.md",
-    "assets/mystery - copia.png",
-    "assets/Pasted image 20231016181744.png",
-    "assets/Pasted image 20231016181434.png",
-    "assets/Pasted image 20231016180729.png",
-    "assets/Pasted image 20231016155928.png",
     "picoCTF/dont-use-client-side.md",
     "picoCTF/Cookies.md",
     "picoCTF/convertme.py.md",
     "picoCTF/Codebook.md",
     "picoCTF/Client-side-again.md",
     "picoCTF/Based.md",
-    "picoCTF/tunn3l v1s10n.md",
-    "picoCTF/where are the robots.md",
-    "MetaRed 2022/My first app.md",
-    "MetaRed 2022/Intercepting Communication.md",
-    "MetaRed 2022/How to catch snakes.md",
-    "picoCTF/what's a net cat.md",
-    "picoCTF/picobrowser.md",
-    "picoCTF/Lets Warm Up.md",
-    "picoCTF/Insp3ct0r.md",
-    "picoCTF/First Grep.md",
-    "picoCTF/Irish-Name-Repo 1.md",
-    "picoCTF/fixme1.py.md",
     "MetaRed 2022",
     "Nueva carpeta",
     "concurso",
@@ -202,8 +204,6 @@
     "picoCTF",
     "overthewire/Krypton",
     "assets/crack.py.txt",
-    "parcial 1/parte3",
-    "parcial 1/parte2",
-    "parcial 1/parte1"
+    "parcial 1/parte3"
   ]
 }
