@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Local Authority.md",
+                "file": "picoCTF/Packets Primer.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Local Authority.md",
+                "file": "picoCTF/Packets Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Local Authority.md",
+                "file": "picoCTF/Packets Primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Local Authority.md"
+                "file": "picoCTF/Packets Primer.md"
               }
             }
           },
@@ -158,44 +158,44 @@
   },
   "active": "97816c1f3cdfc21c",
   "lastOpenFiles": [
-    "assets/Pasted image 20231018183650.png",
-    "picoCTF/Forbidden Paths.md",
-    "picoCTF/Local Authority.md",
-    "assets/Pasted image 20231018182933.png",
-    "picoCTF/Search source.md",
-    "assets/Pasted image 20231018182048.png",
-    "picoCTF/Inspect HTML.md",
-    "assets/Pasted image 20231018181213.png",
-    "picoCTF/Includes.md",
-    "assets/Pasted image 20231018181046.png",
-    "assets/Pasted image 20231018181018.png",
-    "picoCTF/information.md",
-    "assets/Pasted image 20231018180319.png",
-    "assets/Pasted image 20231018180301.png",
-    "picoCTF/WebNet1.md",
-    "assets/Pasted image 20231018175916.png",
-    "assets/Pasted image 20231018175738.png",
-    "picoCTF/WebNet0.md",
-    "assets/Pasted image 20231018174323.png",
-    "picoCTF/Matryoshka doll.md",
-    "picoCTF/MacroHard WeakEdge.md",
+    "picoCTF/Packets Primer.md",
+    "assets/Pasted image 20231018214324.png",
+    "picoCTF/Wireshark doo dooo do doo....md",
+    "assets/Pasted image 20231018213939.png",
+    "assets/Pasted image 20231018213936.png",
+    "assets/Pasted image 20231018213746.png",
+    "picoCTF/St3g0.md",
+    "picoCTF/WhitePages.md",
+    "picoCTF/runme.py.md",
     "TryHackMe/RootMe.md",
     "tryhackme/RootMe.md",
-    "tryhackme",
-    "tools/Recopilacion Activa de Informacion/Nmap.md",
-    "TryHackMe",
-    "picoCTF/shark on wire 2.md",
-    "picoCTF/WhitePages.md",
-    "picoCTF/extensions.md",
-    "picoCTF/m00nwalk.md",
+    "picoCTF/PW Crack 3.md",
+    "picoCTF/PW Crack 2.md",
+    "picoCTF/PW Crack 1.md",
     "picoCTF/like1000.md",
-    "picoCTF/c0rrupt.md",
-    "picoCTF/dont-use-client-side.md",
-    "picoCTF/Cookies.md",
+    "overthewire/Bandit/Level-31.md",
+    "picoCTF/Glitch Cat.md",
+    "picoCTF/fixme2.py.md",
+    "picoCTF/fixme1.py.md",
+    "tools/Recopilacion Activa de Informacion/DNSrecon.md",
     "picoCTF/convertme.py.md",
     "picoCTF/Codebook.md",
-    "picoCTF/Client-side-again.md",
-    "picoCTF/Based.md",
+    "picoCTF/Enhance!.md",
+    "assets/Pasted image 20231018211822.png",
+    "picoCTF/Lookey here.md",
+    "assets/Pasted image 20231018210939.png",
+    "picoCTF/Redaction gone wrong.md",
+    "assets/Pasted image 20231018210635.png",
+    "assets/Financial_Report_for_ABC_Labs.pdf",
+    "picoCTF/information.md",
+    "picoCTF/SQL Direct.md",
+    "picoCTF/Secrets.md",
+    "assets/Pasted image 20231018195918.png",
+    "assets/Pasted image 20231018195900.png",
+    "assets/Pasted image 20231018195615.png",
+    "picoCTF/Roboto Sans.md",
+    "tryhackme",
+    "TryHackMe",
     "MetaRed 2022",
     "Nueva carpeta",
     "concurso",
@@ -203,7 +203,6 @@
     "Untitled.canvas",
     "picoCTF",
     "overthewire/Krypton",
-    "assets/crack.py.txt",
-    "parcial 1/parte3"
+    "assets/crack.py.txt"
   ]
 }
