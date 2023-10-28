@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9226449348fb306",
+        "id": "7aabdcd462748c42",
         "type": "tabs",
         "children": [
           {
-            "id": "97816c1f3cdfc21c",
+            "id": "0192f4f71bcbac45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Packets Primer.md",
+                "file": "picoCTF/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Packets Primer.md",
+                "file": "picoCTF/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Packets Primer.md",
+                "file": "picoCTF/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Packets Primer.md"
+                "file": "picoCTF/waves over lambda.md"
               }
             }
           },
@@ -156,44 +156,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "97816c1f3cdfc21c",
+  "active": "0192f4f71bcbac45",
   "lastOpenFiles": [
-    "picoCTF/Packets Primer.md",
+    "picoCTF/Tapping.md",
+    "picoCTF/la cifra de.md",
+    "picoCTF/Easy1.md",
+    "picoCTF/caesar.md",
+    "picoCTF/13.md",
+    "picoCTF/The Numbers.md",
+    "picoCTF/waves over lambda.md",
+    "assets/Pasted image 20231025135942.png",
+    "assets/Pasted image 20231025135807.png",
+    "assets/Pasted image 20231025122213.png",
+    "assets/Pasted image 20231025122055.png",
+    "hackmyvm/Level-29.md",
+    "hackmyvm/Level-28.md",
+    "hackmyvm/Level-27.md",
+    "hackmyvm/Level-26.md",
+    "hackmyvm/Level-25.md",
+    "hackmyvm/Level-24.md",
+    "hackmyvm/Level-23.md",
+    "hackmyvm/Level-22.md",
+    "hackmyvm/Level-21.md",
+    "hackmyvm/Level-20.md",
+    "hackmyvm/Level-19.md",
+    "hackmyvm/Level-18.md",
+    "hackmyvm/Level-17.md",
+    "hackmyvm/Level-16.md",
+    "hackmyvm/Level-15.md",
+    "hackmyvm/Level-14.md",
+    "hackmyvm/Level-13.md",
+    "hackmyvm/Level-12.md",
+    "hackmyvm/Level-11.md",
+    "assets/Pasted image 20231019223638.png",
+    "assets/Pasted image 20231019223557.png",
     "assets/Pasted image 20231018214324.png",
-    "picoCTF/Wireshark doo dooo do doo....md",
     "assets/Pasted image 20231018213939.png",
     "assets/Pasted image 20231018213936.png",
     "assets/Pasted image 20231018213746.png",
-    "picoCTF/St3g0.md",
-    "picoCTF/WhitePages.md",
-    "picoCTF/runme.py.md",
-    "TryHackMe/RootMe.md",
-    "tryhackme/RootMe.md",
-    "picoCTF/PW Crack 3.md",
-    "picoCTF/PW Crack 2.md",
-    "picoCTF/PW Crack 1.md",
-    "picoCTF/like1000.md",
-    "overthewire/Bandit/Level-31.md",
-    "picoCTF/Glitch Cat.md",
-    "picoCTF/fixme2.py.md",
-    "picoCTF/fixme1.py.md",
-    "tools/Recopilacion Activa de Informacion/DNSrecon.md",
-    "picoCTF/convertme.py.md",
-    "picoCTF/Codebook.md",
-    "picoCTF/Enhance!.md",
-    "assets/Pasted image 20231018211822.png",
-    "picoCTF/Lookey here.md",
-    "assets/Pasted image 20231018210939.png",
-    "picoCTF/Redaction gone wrong.md",
-    "assets/Pasted image 20231018210635.png",
     "assets/Financial_Report_for_ABC_Labs.pdf",
-    "picoCTF/information.md",
-    "picoCTF/SQL Direct.md",
-    "picoCTF/Secrets.md",
-    "assets/Pasted image 20231018195918.png",
-    "assets/Pasted image 20231018195900.png",
-    "assets/Pasted image 20231018195615.png",
-    "picoCTF/Roboto Sans.md",
     "tryhackme",
     "TryHackMe",
     "MetaRed 2022",
