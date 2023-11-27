@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/waves over lambda.md",
+                "file": "picoCTF/ASCII FTW.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/waves over lambda.md",
+                "file": "picoCTF/ASCII FTW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/waves over lambda.md",
+                "file": "picoCTF/ASCII FTW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/waves over lambda.md"
+                "file": "picoCTF/ASCII FTW.md"
               }
             }
           },
@@ -148,23 +148,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "0192f4f71bcbac45",
   "lastOpenFiles": [
+    "picoCTF/Mr-Worldwide.md",
+    "picoCTF/ASCII FTW.md",
+    "picoCTF/Flags.md",
+    "assets/flag.png",
+    "picoCTF/Vigenere.md",
+    "assets/Pasted image 20231127115501.png",
+    "picoCTF/transposition-trial.md",
+    "picoCTF/basic-mod1.md",
+    "picoCTF/rsa-pop-quiz.md",
+    "picoCTF/Mind your Ps and Qs.md",
+    "picoCTF/ReadMyCert.md",
+    "assets/Pasted image 20231031105308.png",
+    "picoCTF/waves over lambda.md",
     "picoCTF/Tapping.md",
     "picoCTF/la cifra de.md",
     "picoCTF/Easy1.md",
     "picoCTF/caesar.md",
     "picoCTF/13.md",
     "picoCTF/The Numbers.md",
-    "picoCTF/waves over lambda.md",
     "assets/Pasted image 20231025135942.png",
     "assets/Pasted image 20231025135807.png",
     "assets/Pasted image 20231025122213.png",
@@ -179,21 +191,9 @@
     "hackmyvm/Level-22.md",
     "hackmyvm/Level-21.md",
     "hackmyvm/Level-20.md",
-    "hackmyvm/Level-19.md",
-    "hackmyvm/Level-18.md",
-    "hackmyvm/Level-17.md",
-    "hackmyvm/Level-16.md",
-    "hackmyvm/Level-15.md",
-    "hackmyvm/Level-14.md",
-    "hackmyvm/Level-13.md",
-    "hackmyvm/Level-12.md",
-    "hackmyvm/Level-11.md",
     "assets/Pasted image 20231019223638.png",
     "assets/Pasted image 20231019223557.png",
     "assets/Pasted image 20231018214324.png",
-    "assets/Pasted image 20231018213939.png",
-    "assets/Pasted image 20231018213936.png",
-    "assets/Pasted image 20231018213746.png",
     "assets/Financial_Report_for_ABC_Labs.pdf",
     "tryhackme",
     "TryHackMe",
